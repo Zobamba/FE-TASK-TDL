@@ -12,6 +12,10 @@
 
 ### `code .`
 
+4. To install dependencies, in your terminal run:
+
+### `npm install`
+
 # Available Scripts
 
 In the project directory, you can run:
