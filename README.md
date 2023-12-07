@@ -2,13 +2,13 @@
 
 To clone the repository, In your terminal run:
 
-### `git clone git@github.com:Zobamba/FE-TASK.git`
+### `git clone git@github.com:Zobamba/FE-TASK-TDL.git`
 
 # Or
 
 Clone the repo directly: 
 
-### `git@github.com:Zobamba/FE-TASK.git`
+### `git@github.com:Zobamba/FE-TASK-TDL.git`
 
 ## Available Scripts
 
