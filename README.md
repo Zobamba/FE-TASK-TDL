@@ -1,16 +1,18 @@
 # Getting Started with Todo-List Application
 
-To clone the repository, In your terminal run:
+1. To clone the repository, in your terminal run:
 
 ### `git clone git@github.com:Zobamba/FE-TASK-TDL.git`
 
-# Or
+2. To get into the working directory, in your terminal run:
 
-Clone the repo directly: 
+### `cd FE-TASK-TDL`
 
-### `git@github.com:Zobamba/FE-TASK-TDL.git`
+3. To open in code editor, in your terminal run:
 
-## Available Scripts
+### `code .`
+
+# Available Scripts
 
 In the project directory, you can run:
 
